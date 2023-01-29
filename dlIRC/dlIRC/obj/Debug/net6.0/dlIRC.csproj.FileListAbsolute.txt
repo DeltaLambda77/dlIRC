@@ -1,0 +1,15 @@
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\bin\Debug\net6.0\dlIRC.exe
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\bin\Debug\net6.0\dlIRC.deps.json
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\bin\Debug\net6.0\dlIRC.runtimeconfig.json
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\bin\Debug\net6.0\dlIRC.dll
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\bin\Debug\net6.0\dlIRC.pdb
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.csproj.AssemblyReference.cache
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.AssemblyInfoInputs.cache
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.AssemblyInfo.cs
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.csproj.CoreCompileInputs.cache
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.dll
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\refint\dlIRC.dll
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.pdb
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\dlIRC.genruntimeconfig.cache
+G:\Dan\Desktop\Coding\C#\dlIRC\dlIRC\dlIRC\obj\Debug\net6.0\ref\dlIRC.dll
